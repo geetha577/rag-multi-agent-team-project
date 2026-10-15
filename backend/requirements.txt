@@ -6,3 +6,4 @@ python-docx
 pandas
 sentence-transformers
 chromadb
+faster-whisper
